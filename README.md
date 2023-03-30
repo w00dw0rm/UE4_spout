@@ -23,10 +23,13 @@ https://user-images.githubusercontent.com/47065870/228887495-570d2668-2a12-4ef9-
 
 https://user-images.githubusercontent.com/47065870/228886919-58d331a1-3035-4a4c-b4c5-23abcd2835e0.mp4
 
+
+* Image imitation through camera pose solving:* 
+
 ![image](https://user-images.githubusercontent.com/47065870/228891992-3eb841af-f895-434a-8bcb-ab918ba79c02.png)
+[3] M. Savardi, A. Signoroni, P. Migliorati, and S. Benini. Shot scale analysis in movies by convolutional neural networks. In 2018 25th IEEE International Conference on Image Processing, pages 2620– 2624, 2018
 
 
-[3] M. Savardi, A. Signoroni, P. Migliorati, and S. Benini. Shot scale analysis in movies by convolutional neural networks. In 2018 25th IEEE International Conference on Image Processing, pages 2620– 2624, 2018![image](https://user-images.githubusercontent.com/47065870/228891927-6be845f8-8e35-4343-ab7d-00583bae5e7a.png)
 
 
 ![image](https://user-images.githubusercontent.com/47065870/173529959-979d7c57-848c-401d-bba6-292bdbf64a77.png)
