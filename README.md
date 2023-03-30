@@ -9,11 +9,10 @@
 
 ## Shot type clustering:
 
-![2016_Why_Him_ ts_GMM_prob_through_time_thumbnails_dim6_GMM5_SHORT](https://user-images.githubusercontent.com/47065870/228894585-db9612e6-4e09-492f-b7bf-ae5435e251c4.png)
+![image](https://user-images.githubusercontent.com/47065870/228894911-982d676e-0a28-4aed-8d1b-c96ec4ca89b1.png)
 
 
-
-## hybrid tracked camera and storyboard interface:
+## Hybrid tracked camera and storyboard interface:
 
 https://user-images.githubusercontent.com/47065870/228894004-6f41544e-4e28-4959-9cdf-e513945e6615.mp4
 
