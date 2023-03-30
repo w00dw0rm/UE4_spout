@@ -7,13 +7,19 @@
 3) Our system automates aspects of scouting, storyboarding, and staging
 4) by data-driven unsupervised clustering
 
-# hybrid tracked camera and storyboard interface:
+## Shot type clustering:
+
+![2016_Why_Him_ ts_GMM_prob_through_time_thumbnails_dim6_GMM5_SHORT](https://user-images.githubusercontent.com/47065870/228894585-db9612e6-4e09-492f-b7bf-ae5435e251c4.png)
+
+
+
+## hybrid tracked camera and storyboard interface:
 
 https://user-images.githubusercontent.com/47065870/228894004-6f41544e-4e28-4959-9cdf-e513945e6615.mp4
 
 
 
-# Image imitation through camera pose solving: 
+## Image imitation through camera pose solving: 
 
 ![image](https://user-images.githubusercontent.com/47065870/228891992-3eb841af-f895-434a-8bcb-ab918ba79c02.png)
 
