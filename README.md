@@ -1,5 +1,9 @@
 # UE4_spout
 
+1) A system that analyses film content to provide expert camera pose recommendations to cinematographers
+2) to rapidly experiment with shots in a virtual space.
+3) Our system automates aspects of scouting, storyboarding, and staging
+4) by data-driven unsupervised clustering
 
 
 https://user-images.githubusercontent.com/47065870/228887495-570d2668-2a12-4ef9-9ff2-7f52ae80fdfb.mp4
